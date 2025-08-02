@@ -1,0 +1,22 @@
+# Ignore virtual environment
+HOUSING_ANALYSIS/
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+
+# Build and packaging
+*.egg-info/
+build/
+dist/
+
+# Environment files
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor settings
+.vscode/
+.idea/
